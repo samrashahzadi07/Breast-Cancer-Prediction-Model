@@ -7,9 +7,6 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 ## 🚀 Demo
 🔗 [Live App on Streamlit](https://breastcancerprediction07.streamlit.app/)
 
-## 🚀 Video Demo
-[https://github.com/user-attachments/assets/1b2d5f1f-df86-4d24-a5c1-31b7d705ac9a](https://github.com/user-attachments/assets/1b2d5f1f-df86-4d24-a5c1-31b7d705ac9a)
-
 ---
 
 ## 📌 Features
@@ -58,16 +55,7 @@ The app is trained using the **Breast Cancer Wisconsin (Diagnostic) Dataset** fr
 
 ### ✅ Prediction Result
 <img width="1895" height="811" alt="image" src="https://github.com/user-attachments/assets/5461d83c-e6b2-4fc3-aea4-7fc286a02453" />
- 
 
----
-
-## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
-
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
 
 ---
 
