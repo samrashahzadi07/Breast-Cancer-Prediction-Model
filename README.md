@@ -4,11 +4,6 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 
 ---
 
-## 🚀 Demo
-🔗 [Live App on Streamlit](https://breastcancerprediction07.streamlit.app/)
-
----
-
 ## 📌 Features
 - Predicts **Breast Cancer Risk** using a trained ML model.  
 - User-friendly **Streamlit interface**.  
