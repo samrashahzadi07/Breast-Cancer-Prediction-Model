@@ -1,0 +1,85 @@
+# 🎗️ Breast Cancer Prediction App
+
+An **AI-powered web application** built with **Streamlit** that predicts whether a breast tumor is **Malignant (cancerous)** or **Benign (non-cancerous)** based on important medical features.
+
+---
+
+## 🚀 Demo
+🔗 [Live App on Streamlit](https://breastcancerprediction07.streamlit.app/)
+
+## 🚀 Video Demo
+[https://github.com/user-attachments/assets/1b2d5f1f-df86-4d24-a5c1-31b7d705ac9a](https://github.com/user-attachments/assets/1b2d5f1f-df86-4d24-a5c1-31b7d705ac9a)
+
+---
+
+## 📌 Features
+- Predicts **Breast Cancer Risk** using a trained ML model.  
+- User-friendly **Streamlit interface**.  
+- Allows input of **important tumor features** only.  
+- Provides clear results with **visual result cards**.  
+- Includes an **About Me** sidebar with portfolio links.  
+
+---
+
+## 🔍 Usage
+1. Open the app in your browser.  
+2. Enter the tumor feature values in the input form.  
+3. Click on **Predict**.  
+4. Get results:  
+   - ⚠️ **Malignant** → Cancerous (consult a doctor).  
+   - ✅ **Benign** → Non-cancerous.  
+
+---
+## 📊 Dataset
+The app is trained using the **Breast Cancer Wisconsin (Diagnostic) Dataset** from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
+
+- **Classes**:  
+  - `Malignant` → Cancerous tumor  
+  - `Benign` → Non-cancerous tumor  
+
+- **Features**:  
+  The dataset contains **30 medical features**, but this app simplifies input to **8 important features** for ease of use.  
+
+---
+
+## ⚙️ Tech Stack
+- **Python 3.9+**  
+- **Streamlit** (Frontend Web App)  
+- **NumPy & Pandas** (Data Processing)  
+- **Scikit-learn** (Model Training)  
+- **Pickle** (Model Serialization)  
+- **TensorFlow / Keras** (Neural Network Model)  
+
+---
+
+## 📸 Screenshots
+### 🏠 Home Page
+<img width="1905" height="793" alt="image" src="https://github.com/user-attachments/assets/10aa92ec-404b-4ac3-bf69-00a024b54352" />
+
+### ✅ Prediction Result
+<img width="1895" height="811" alt="image" src="https://github.com/user-attachments/assets/5461d83c-e6b2-4fc3-aea4-7fc286a02453" />
+ 
+
+---
+
+## 👨‍💻 Author
+**Mirza Yasir Abdullah Baig**  
+
+- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
+- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+
+---
+
+## ❤️ Acknowledgements
+- [UCI Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)  
+- [Streamlit Documentation](https://docs.streamlit.io/)  
+- [Scikit-learn](https://scikit-learn.org/stable/)  
+- [TensorFlow/Keras](https://www.tensorflow.org/)  
+
+---
+
+## ⚠️ Disclaimer
+This project is for **educational purposes only** and should **NOT** be used as a substitute for professional medical diagnosis.  
+
+--- 
