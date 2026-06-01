@@ -49,16 +49,6 @@ The app is trained using the **Breast Cancer Wisconsin (Diagnostic) Dataset** fr
 
 ---
 
-## 📸 Screenshots
-### 🏠 Home Page
-<img width="1905" height="793" alt="image" src="https://github.com/user-attachments/assets/10aa92ec-404b-4ac3-bf69-00a024b54352" />
-
-### ✅ Prediction Result
-<img width="1895" height="811" alt="image" src="https://github.com/user-attachments/assets/5461d83c-e6b2-4fc3-aea4-7fc286a02453" />
-
-
----
-
 ## ❤️ Acknowledgements
 - [UCI Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)  
 - [Streamlit Documentation](https://docs.streamlit.io/)  
